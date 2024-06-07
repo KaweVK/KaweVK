@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kawevk/count.svg?"  />
-</div>
-
-###
-
 <p align="left"><strong>Connect with me:</p>
 
 ###
