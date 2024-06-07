@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<p align="left"><strong>Connect with me:</p>
 
 ###
 
