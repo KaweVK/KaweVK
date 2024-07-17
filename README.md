@@ -1,4 +1,4 @@
-<h2 align="left">What's up? My name is Kawê and I'm a backend developer, from Paraiba, Brazil</h2>
+<h2 align="left">HI! My name is Kawê and I'm a backend developer, from Paraiba, Brazil</h2>
 
 ###
 
