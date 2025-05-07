@@ -1,55 +1,28 @@
-<h3 align="left">Hi 👋! My name is Kawe and I'm a back-and developer, from Paraíba, BR.</h3>
+# 💫 About Me:
+Amante de qualquer atividade física e programação. <img align="right" height="150" src="https://c.tenor.com/S9Xo7A1m3_EAAAAd/tenor.gif"  />
+<br>Me chame pra um vôlei e me conquiste.
+<br>Sou fã de animes e séries, e adoro ouvi música.
+<br><br><br>
 
-###
-
-<br clear="both">
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawevk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="101" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kawevk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div class="tenor-gif-embed" data-postid="7250294780388192881" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gear-5-luffy-luffy-gif-7250294780388192881">Gear 5 Luffy GIF</a>from <a href="https://tenor.com/search/gear+5+luffy-gifs">Gear 5 Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/kawevk" target="_blank">
+## 🌐 Socials:
+  <a href="instagram.com/kawevk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/victorkawe/" target="_blank">
+  <a href="linkedin.com/in/victorkawe/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
 
-###
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-<br clear="both">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KaweVK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KaweVK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaweVK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/kawevk/kawevk/output/snake.svg" alt="Snake animation" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KaweVK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=KaweVK&icon=0&color=12)](https://visitcount.itsvg.in)
+<!--  -->
